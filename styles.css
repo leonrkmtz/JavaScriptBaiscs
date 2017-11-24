@@ -1,0 +1,36 @@
+
+.contenedor{
+  background-color: #4EAABF;
+  height: 400px;
+  font-family: Helvetica, Arial, sans-serif;
+}
+.boton {
+  text-decoration: none;
+  color: #fff;
+  background-color: black;
+  padding: 12px 25px;
+  font-weight: 700;
+  font-size: 20px;
+  border-radius: 3px;
+  margin-bottom: 10px;
+  width: 240px;
+  text-align: center;
+  margin: auto;
+}
+.boton:hover {
+  color: #14acc2;
+  text-decoration: none;
+}
+/*Cambio de formato con JS*/
+
+.uno{
+  color: #fff;
+  font-size: 32px;
+  font-weight: 400;
+}
+.dos{
+  font-size: 18px;
+  font-weight: 300;
+  color: #b1eef7;
+
+}
